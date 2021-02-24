@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 🌎
+## I'm a Node.js back-end developer
+"Be the change you want to see in the world."
 
-<!--
-**Esan2019/Esan2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My experiences:
+- Node.js 
+- JavaScript
+- Java
+- Relational Databases
+- Non-Relational Databases
+- Mobile development with Flutter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me!
+Just click one of the links below to get in touch with me.
+|LinkedIn|Telegram|E-mail|
+| :----: | :----: | :--: |
+|<a href="https://www.linkedin.com/in/esan2019/">Visit my profile</a>|<a href="https://t.me/esandeveloper">Send me a message</a>|<a href="mailto:esandeveloper@protonmail.com">Send me an e-mail</a>| 
