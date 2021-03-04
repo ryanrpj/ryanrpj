@@ -1,6 +1,6 @@
-# Welcome to my GitHub profile! 🌎
-## I'm a Node.js back-end developer
-"Be the change you want to see in the world."
+# I'm a Node.js back-end developer
+## Welcome to my GitHub profile!
+"Be the change you want to see in the world." 🌎
 
 ### My experiences:
 - Node.js 
