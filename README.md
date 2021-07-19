@@ -5,10 +5,8 @@
 ### My experiences:
 - Node.js 
 - JavaScript
-- Java
 - Relational Databases
 - Non-Relational Databases
-- Mobile development with Flutter
 
 ### Contact me!
 Just click one of the links below to get in touch with me.
