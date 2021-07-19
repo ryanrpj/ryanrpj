@@ -5,6 +5,7 @@
 ### My experiences:
 - Node.js 
 - JavaScript
+- TypeScript
 - Relational Databases
 - Non-Relational Databases
 
