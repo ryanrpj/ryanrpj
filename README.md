@@ -2,18 +2,16 @@
 <img src="assets/nyancat.gif">
 </p>
 
----
-
 <h1 align="center"> Hello, I'm Ryan! <img src="assets/greetings.gif" width=25px></h1>
 
 <div align="center">
-<h1> Welcome to my GitHub profile! <img src="assets/github.gif" width=35px /> </h1>
+<h3> Welcome to my GitHub profile! <img src="assets/github.gif" width=35px /> </h3>
 </div>
 
 ---
 
 <div align="center">
-<h1>Get to know me 🗿🍷</h1>
+<h3>Get to know me 🗿🍷</h3>
 I'm a seasoned back-end developer with professional experience on Node.js and Java development.
 Actively studying Computer Science and Software Architecture.
 
@@ -24,7 +22,7 @@ I don't mind.  Actually, just don't.
 
 ---
 
-<h1 align="center">Contact me 📬</h1>
+<h3 align="center">Contact me 📬</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ryanrpj/"><img src="assets/linkedin.svg" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
