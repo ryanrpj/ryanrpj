@@ -17,7 +17,7 @@ Actively studying Computer Science and Software Architecture.
 
 On my free time I like to learn about photography and video editing techniques. Used to like video-games, but now
 I'm more into spending time cycling or just chilling with some good music. Yeah, I guess you can call me a boomer,
-I don't mind.  Actually, just don't.
+I don't mind...  Actually, just don't.
 </div>
 
 ---
