@@ -12,7 +12,7 @@
 
 <div align="center">
 <h3>Get to know me 🗿🍷</h3>
-I'm a seasoned back-end developer with professional experience on Node.js and Java development.
+I'm a seasoned back-end developer with professional experience in Node.js and Java development.
 Actively studying Computer Science and Software Architecture.
 
 On my free time I like to learn about photography and video editing techniques. Used to like video-games, but now
