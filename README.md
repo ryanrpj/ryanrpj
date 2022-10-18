@@ -12,8 +12,8 @@
 
 <div align="center">
 <h3>Get to know me 🗿🍷</h3>
-I'm a seasoned back-end developer with professional experience in Node.js and Java development.
-Actively studying Computer Science and Software Architecture.
+I'm a seasoned back-end developer with professional experience in Node.js and TypeScript development. TDD lover.
+Currently I'm actively studying Computer Science and Software Architecture.
 
 On my free time I like to learn about photography and video editing techniques. Used to like video-games, but now
 I'm more into spending time cycling or just chilling with some good music. Yeah, I guess you can call me a boomer,
